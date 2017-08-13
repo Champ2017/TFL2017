@@ -26,7 +26,7 @@ Feature: TFL Plan a journey
   @Two
   Scenario Outline: TFL Journey Edit preferences
     Given I enter the url
-#    And I enter "<from>" as the starting location
+    And I enter "<from>" as the starting location
 #    And I enter "<to>" as the destination
 #    And I open the edit preferences link
 #    And I select "Routes with fewest changes" option under Show me
