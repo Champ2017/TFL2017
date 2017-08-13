@@ -23,7 +23,7 @@ Feature: TFL Plan a journey
 #      |Canary Wharf    |Waterloo      |
 
 
-  @Two
+  @TWO2
   Scenario Outline: TFL Journey Edit preferences
     Given I enter the url
     And I enter "<from>" as the starting location
